@@ -1,4 +1,4 @@
-package com.tarek.tarelpetclinic.model;
+package tarelpetclinic.model;
 
 import java.time.LocalDate;
 

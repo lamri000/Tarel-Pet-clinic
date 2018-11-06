@@ -1,4 +1,4 @@
-package com.tarek.tarelpetclinic;
+package com.tarek.tarekpetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

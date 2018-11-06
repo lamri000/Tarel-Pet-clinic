@@ -1,4 +1,4 @@
-package com.tarek.tarelpetclinic.model;
+package tarelpetclinic.model;
 
 public class Person {
     private String firstName;
@@ -20,4 +20,4 @@ public class Person {
         this.lastName = lastName;
     }
 }
-}
+

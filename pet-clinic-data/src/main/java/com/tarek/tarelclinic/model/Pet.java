@@ -2,7 +2,7 @@ package com.tarek.tarelclinic.model;
 
 import java.time.LocalDate;
 
-public class Pet {
+public class Pet extends BaseEntity {
     private  PeType peType;
     private Owner owner;
     private LocalDate birthDate;

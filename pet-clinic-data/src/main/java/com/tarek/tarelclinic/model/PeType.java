@@ -1,6 +1,6 @@
 package com.tarek.tarelclinic.model;
 
-public class PeType {
+public class PeType extends BaseEntity{
     private String  name;
 
     public String getName() {

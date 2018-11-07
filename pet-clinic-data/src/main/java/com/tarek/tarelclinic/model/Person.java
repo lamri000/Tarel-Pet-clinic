@@ -1,4 +1,4 @@
-package tarelpetclinic.model;
+package com.tarek.tarelclinic.model;
 
 public class Person {
     private String firstName;

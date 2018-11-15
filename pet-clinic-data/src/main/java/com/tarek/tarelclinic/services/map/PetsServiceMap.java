@@ -1,11 +1,11 @@
 package com.tarek.tarelclinic.services.map;
 
 import com.tarek.tarelclinic.model.Pet;
-import com.tarek.tarelclinic.services.CrudService;
+import com.tarek.tarelclinic.services.PetService;
 
 import java.util.Set;
 
-public class PetsServiceMap extends AbstractMapService<Pet,Long> implements CrudService<Pet,Long> {
+public class PetsServiceMap extends AbstractMapService<Pet,Long> implements PetService {
     @Override
     public Set<Pet> findAll() {
         return super.findAll();
